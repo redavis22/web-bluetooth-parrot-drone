@@ -11,7 +11,7 @@
 'use strict';
 
 // 'Travis_' for Airborne Cargo drone. Change to 'RS_' for Rolling Spider.
-const DRONE_BLUETOOTH_NAME_PREFIX = 'Travis_';
+const DRONE_BLUETOOTH_NAME_PREFIX = 'RS_';
 
 let App = function() {
 
